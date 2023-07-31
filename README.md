@@ -10,10 +10,10 @@ $ yarn global add yy-cli
 创建模版
 $ npx create yy-cli <name> [-t|--template]
 示例
-$ npx create yy-cli hello-cli -template dumi2-demo
+$ npx create yy-cli hello-cli -template dumi-demo
 
 ## 使用
 创建模版
 $ yy-cli create <name> [-t|--template]
 示例
-$ yy-cli create hello-cli -t dumi2-demo
+$ yy-cli create hello-cli -t dumi-demo
